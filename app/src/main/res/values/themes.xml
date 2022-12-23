@@ -1,0 +1,42 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DemoIFoodIntegracao" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/vermelho</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="menuAlignmentMode">@color/white</item>
+        <item name="searchIcon">@color/white</item>
+        <item name="background">@color/white</item>
+        <item name="android:textAppearanceSearchResultSubtitle">@color/white</item>
+        <item name="android:textAppearanceSearchResultTitle">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="button_custom">
+        <item name="colorPrimary">@color/gray</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:strokeColor">@color/gray</item>
+        <item name="android:strokeWidth">10</item>
+        <item name="android:gestureStrokeWidth">10</item>
+    </style>
+
+    <!-- adddCarrinhoSheetCustom -->
+    <style name="BottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="borderlessButtonStyle">@style/BottomSheetStyle</item>
+    </style>
+
+    <style name="BottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+
+
+
+</resources>

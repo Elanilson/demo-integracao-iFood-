@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/shetetCarrinho"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center"
+        android:text="@string/adicionarcarrinho"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="6dp"
+        android:background="@color/divisor" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageViewImageSelecCarrinho"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@android:color/transparent"
+            android:scaleType="centerCrop"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewtituloSelecCarrinho"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Titulo"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textViewPrecoSelecCarrinho"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="R$: 9.80"
+                android:textColor="@color/vermelho"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textViewEstoqueSelecCarrinho"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Estoque: 564"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginBottom="6dp"
+        android:background="@color/divisor" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:gravity="center|center_horizontal"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/estoque"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+        <Button
+            android:id="@+id/buttonMenosSelecCarrinho"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/background_caixa"
+            android:text="-"
+            android:textColor="@color/black"
+            android:theme="@style/button_custom" />
+
+        <EditText
+            android:id="@+id/editQuantidadeSelecCarrinho"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:background="@drawable/background_caixa"
+            android:ems="10"
+            android:gravity="center"
+            android:inputType="textPersonName"
+            android:text="0"
+            android:textColor="@color/vermelho" />
+
+        <Button
+            android:id="@+id/buttonMaisSelecCarrinho"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@drawable/background_caixa"
+            android:text="+"
+            android:textColor="@color/black"
+            android:theme="@style/button_custom" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonAdicionarSelecCarrinho"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/vermelho"
+        android:text="@string/adicionarcarrinho"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        app:cornerRadius="5dp" />
+</LinearLayout>

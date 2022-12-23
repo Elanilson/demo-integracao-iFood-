@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cinza">#AEAEAE</color>
+    <color name="vermelho">#F10202</color>
+    <color name="verdeAbacate">#50A773</color>
+
+    <color name="vermelhoLaranjado">#be3d15</color>
+    <color name="vermelhoLaranjadoClaro">#F69869</color>
+    <color name="gray">#DAD3CFCF</color>
+    <color name="divisor">#DAD3CFCF</color>
+    <color name="amarelo">#FFEB3B</color>
+    <color name="amareloMeioEscuro">#da9f07</color>
+
+    <color name="grey11">#1C1C1C</color>
+    <color name="grey11_transparente">#941C1C1C</color>
+    <color name="grey21">#363636</color>
+    <color name="grey31">#4F4F4F</color>
+    <color name="Gainsboro">#DCDCDC</color>
+    <color name="laranja">#df5d2e</color>
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="verde">#1E6120</color>
+    <color name="balaoRemetente">#dbf9c4</color>
+    <color name="amarelo_pedido_lido">#99FFC70B</color>
+    <color name="verde_Pedido_novo">#C900FF7F</color>
+    <color name="cancelado">#f59d92</color>
+</resources>

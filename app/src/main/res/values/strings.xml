@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">Demo iFood integracao</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="crieSuaConta">Crie sua conta no <b>Berg\'s Burg</b> </string>
+    <string name="nome">Nome</string>
+    <string name="senha">Senha</string>
+    <string name="confirmarSenha">Confirmar senha</string>
+    <string name="cep">Cep</string>
+    <string name="numeroDaCasa">Número da casa</string>
+    <string name="endereco">Endereço</string>
+    <string name="ddd">DD</string>
+    <string name="telefone">Telefone</string>
+    <string name="criar_uma_conta">Criar uma conta</string>
+    <string name="bem_vindo">Bem vindo de volta!</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="bora_escolher_uns_lanches">Bora escolher uns lanches ?</string>
+    <string name="fazer_pedido">Fazer pedido</string>
+    <string name="observações">Observações</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="pedido_enviado">"Seu pedido foi realizado com sucesso."</string>
+    <string name="fechar">Fechar</string>
+    <string name="confirmar_pedido">Confirmar dados do pedido</string>
+    <string name="dados_usuario">Dados do usuário</string>
+    <string name="dados_do_pedido">Dados do pedido</string>
+    <string name="pendente">Pendente</string>
+    <string name="aguardando">Aguardando</string>
+    <string name="processando">Processando</string>
+    <string name="concluido">Concluído </string>
+    <string name="cancelado">Cancelado</string>
+    <string name="nenhuma_observacao">Nenhuma observação</string>
+    <string name="itens">Itens do pedido</string>
+    <string name="status">Status</string>
+    <string name="data">Data</string>
+    <string name="total">Total</string>
+    <string name="retirar_no_local">Retirar no local</string>
+    <string name="entrega_a_domicilio">Entrega pelo restaurante</string>
+    <string name="opcoes_de_entrega">"Opções de entrega "</string>
+    <string name="confirmar_endereco">Confirmar endereço</string>
+    <string name="resumo_pedido">Resumo pedido</string>
+    <string name="voltar">Voltar</string>
+    <string name="finalizar_pedido">Finalizar pedido</string>
+    <string name="confirme_endereco_de_entrega">Confirme o endereço de entrega!</string>
+    <string name="confirme_forma_pagamento">Confirme a forma de pagamento!</string>
+    <string name="caixa">Caixa</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="continuar">Continuar</string>
+    <string name="subTotal">Subtotal</string>
+    <string name="taxa_entrega">Taxa de entrega</string>
+    <string name="endereco_de_entrega">Endereco de entrega</string>
+    <string name="chat">Chat</string>
+    <string name="termos_de_uso">Termos de uso</string>
+    <string name="politica_de_privacidade">Politica de privacidade</string>
+    <string name="complemento">Complemento</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="sem_conexao">Sem conexão</string>
+    <string name="faca_login">Faça login para continuar</string>
+    <string name="deslogado">Deslogado</string>
+    <string name="logado">Logado</string>
+    <string name="voce_atingiu">Você atingiu o limite maximo!</string>
+    <string name="os_mais_pedidos">Os mais pedidos</string>
+    <string name="entrarOuCadastrar">Entrar ou cadastra-se</string>
+    <string name="estabelicimento_fechado">Estabelecimento fechado!</string>
+    <string name="estabelicimento_aberto">Estabelecimento aberto!</string>
+    <string name="fechado">Fechado</string>
+    <string name="aberto">Aberto</string>
+    <string name="email">E-mail</string>
+    <string name="verificacao_de_email">Verificação de E-mail</string>
+    <string name="enviamos">Por favor, digite o código que \n enviamos agora para:</string>
+    <string name="confirma_email">Foi enviado um link de ativação para o seu E-mail.</string>
+    <string name="nao_encontrou">Não encontrou ? \n Verifique a caixa de <b>spam</b> ou <b>lixo eletrônico</b></string>
+    <string name="nao_recebeu">Não recebeu? <b>Reenviar código</b></string>
+    <string name="reeinviar">Reenviar E-mail</string>
+    <string name="esqueci_senha">Esqueci minha senha</string>
+    <string name="lembrar_de_mim">Lembrar de mim</string>
+    <string name="recuperacao">Recuperação</string>
+    <string name="email_enviado">E-mail enviado</string>
+    <string name="email_cadastrado">E-mail não cadastrado</string>
+    <string name="prencha_os_campos">Preencha os campos corretamente!</string>
+    <string name="insiraseuEmail">Insira o seu email e enviaremos um link para você voltar a acessar a sua conta.</string>
+    <string name="perfil">Perfil</string>
+    <string name="rua">Rua</string>
+    <string name="bairro">Bairro</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">Estado</string>
+    <string name="n_casa">N° casa</string>
+    <string name="alterar_endereco">Alterar endereço</string>
+    <string name="alterar">Alterar</string>
+    <string name="alterar_dados">Alterar dados</string>
+    <string name="dddd_telefone">DD + Telefone</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="gerencial_produtos">Geren. Produtos</string>
+    <string name="descricao">Descrição</string>
+    <string name="preco">Preço</string>
+    <string name="urlImagem">URL imagem</string>
+    <string name="produto_ativo">Produto ativo</string>
+    <string name="produto_desativado">Produto desativado</string>
+
+    <string name="versaoApp">versão 1.0</string>
+    <string name="impressora">Impressora</string>
+    <string name="opcoes_pagamento">Opções de pagamento</string>
+    <string name="forma_de_pagamento">Forma de pagamento</string>
+    <string name="loja">Loja</string>
+    <string name="ramo">Ramo</string>
+    <string name="tempo_entrega">Tempo de entrega</string>
+    <string name="valor_minimo">Valor mínimo</string>
+    <string name="loja_fechada">Loja fechada</string>
+    <string name="salvar">Salvar</string>
+    <string name="cartao_de_debito">Cartão de débito</string>
+    <string name="cartao_de_credito">Cartão de crédito</string>
+    <string name="pix">PIX</string>
+    <string name="dinheiro">Dinheiro</string>
+    <string name="atualizando_status_pedido">Atualizando o Status do Pedido</string>
+    <string name="infoStatus">Mantenha os status do pedido atualizados isso vai permitir você otimizar o controle a gestão de seu negócio, além de melhorar a experiência do usuário que realiza pedidos pelo app.</string>
+
+
+    <string name="entregador_Parceiro_do_ifood">Entrega parceiro do Ifood</string>
+    <string name="verificarDisponibilidade">Verificar  disponibilidade</string>
+    <string name="atencao">Atenção:</string>
+
+    <string name="mais_vendidos">Mais vendidos</string>
+    <string name="vertodos">Ver todos</string>
+    <string name="alimentosbasicos">Alimentos Básicos</string>
+    <string name="bebidasalcoolicas">Bebidas</string>
+    <string name="hortifruti">Hortifruti</string>
+    <string name="adicionarcarrinho">Adicionar ao Carrinho</string>
+    <string name="estoque">Estoque</string>
+    <string name="totalnocarrinho">Total no carrinho</string>
+    <string name="subtototal">Subtotal</string>
+    <string name="entrega">Entrega</string>
+    <string name="mudar_endereco">Mudar Endereço</string>
+    <string name="concluir_compra">Concluir compra</string>
+
+    <string name="dados_do_cliente">Dados do cliente</string>
+    <string name="painel_do_ifood">Painel do iFood</string>
+    <string name="criar_pedido_ifood">Criar pedido</string>
+    <string name="confirmar_Pedido_ifood">Confirmar pepdido</string>
+    <string name="cancelar_pedido_ifood">Cancelar pedido</string>
+    <string name="verificar_frete_ifood">Verificar frete</string>
+    <string name="aceitar_cancelamento">Aceitar cancel..</string>
+    <string name="nega_cancelamento">Nega cancel..</string>
+    <string name="status_ifood">Status iFood</string>
+    <string name="acessar_Painel_ifood">Acessar painel iFood</string>
+    <string name="info_entregador">Informações do entregador</string>
+    <string name="info_pedido_ifood">Informações do pedido</string>
+    <string name="acompanharPedido">Acompanhar pedido</string>
+
+    <string name="infoCancelamento">Como resultado dessa solicitação, você poderá receber  um dos seguintes status: - CANCELADO \n  -FALHA NO PEDIDO DE CANCELAMENTO</string>
+
+    <string name="validacaoCAncelamento">A solicitação de cancelamento não garante que o pedido está cancelado. \n Como resultado dessa solicitação, você poderá receber  um dos seguintes status: \n\n - Cancelado \n  - Falha no pedido de cancelamento</string>
+
+    <string name="penalidadeCancelmaneto">Evite cancelar pedidos! O excesso de cancelamentos pode resultar em algumas penalidades como por exemplo ter a loja fechada temporariamente na plataforma.</string>
+    <string name="recarregar">Recarregar eventos</string>
+    <string name="acompanhar">Acompanhar</string>
+    <string name="copiarLink">Copiar link</string>
+    <string name="opcao_entrega">Opção de entrega</string>
+    <string name="receberar_email">Você receberar o E-mail e alguns minutos.</string>
+    <string name="despachar">Despachar</string>
+    <string name="despachar_pedido">Despachar pedido</string>
+    <string name="comentario">Comentário</string>
+
+
+    <string name="idLoja">SEU ID</string>
+    <string name="grantType2">client_credentials</string>
+    <string name="grantType">refresh_token</string>
+    <string name="authorizationCode">XXXX</string>
+    <string name="authorizationCodeVerifier">SUA ID</string>
+    <string name="clientId">b537125e-37fc-46e0-8b68-e32346d12c9a</string>
+    <string name="clientSecret">SUA ID</string>
+
+    <string name="tokenAcess">eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJlZDk5Mzk1Ni1mYzM0LTQyNzAtYWRlZS0xYWI4YjVjMzQ4ZjAiLCJhcHBfbmFtZSI6ImFwa2RvYW5kcm9pZC10ZXN0ZS1kIiwiYXVkIjpbInNoaXBwaW5nIiwicmV2aWV3IiwiY2F0YWxvZyIsImZpbmFuY2lhbCIsIm1lcmNoYW50Iiwib3JkZXIiLCJvYXV0aC1zZXJ2ZXIiXSwib3duZXJfbmFtZSI6ImFwa2RvYW5kcm9pZCIsInNjb3BlIjpbIm1lcmNoYW50Iiwic2hpcHBpbmciLCJyZXZpZXciLCJjYXRhbG9nIiwiY29uY2lsaWF0b3IiLCJvcmRlciJdLCJpc3MiOiJpRm9vZCIsIm1lcmNoYW50X3Njb3BlIjpbIjU5ODdiNTYwLTJkYzMtNDRjYy05ZmUyLWQ1OWNhYWZhOTQ3ZTptZXJjaGFudCIsIjU5ODdiNTYwLTJkYzMtNDRjYy05ZmUyLWQ1OWNhYWZhOTQ3ZTpvcmRlciIsIjU5ODdiNTYwLTJkYzMtNDRjYy05ZmUyLWQ1OWNhYWZhOTQ3ZTpjYXRhbG9nIiwiNTk4N2I1NjAtMmRjMy00NGNjLTlmZTItZDU5Y2FhZmE5NDdlOmNvbmNpbGlhdG9yIiwiNTk4N2I1NjAtMmRjMy00NGNjLTlmZTItZDU5Y2FhZmE5NDdlOnJldmlldyIsIjU5ODdiNTYwLTJkYzMtNDRjYy05ZmUyLWQ1OWNhYWZhOTQ3ZTpzaGlwcGluZyJdLCJleHAiOjE2NzE1NzQ3NjAsImlhdCI6MTY3MTU1MzE2MCwianRpIjoiZWQ5OTM5NTYtZmMzNC00MjcwLWFkZWUtMWFiOGI1YzM0OGYwOmI1MzcxMjVlLTM3ZmMtNDZlMC04YjY4LWUzMjM0NmQxMmM5YSIsIm1lcmNoYW50X3Njb3BlZCI6dHJ1ZSwiY2xpZW50X2lkIjoiYjUzNzEyNWUtMzdmYy00NmUwLThiNjgtZTMyMzQ2ZDEyYzlhIn0.FCxcDw1tDUUqQbSr52YEVwXaPEOYIhgLnjOfbcSA6NdQwXPlEftOaRFB93s4D6mrBx-IZDrvKKQmgV68jLa7qa9jgUB3tMJp4z-frUSqY0r8dUmlo10HQPMJJwWueS3uZ8cRcGToSRNlSgvyY4_h1zKldxvlSajtuV7ZkYnYNlI</string>
+
+    <string name="refresh_token">eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzUxMiJ9.eyJzdWIiOiJlZDk5Mzk1Ni1mYzM0LTQyNzAtYWRlZS0xYWI4YjVjMzQ4ZjAiLCJpc3MiOiJpRm9vZCIsImV4cCI6MTY3MjE1Nzk2MCwiaWF0IjoxNjcxNTUzMTYwLCJjbGllbnRfaWQiOiJiNTM3MTI1ZS0zN2ZjLTQ2ZTAtOGI2OC1lMzIzNDZkMTJjOWEifQ.DlMJ-PLW0OQMomroUWzO1yOMsLnPa4UP7Lc_wgxBrNu2qx-TC8uujD7IjcRA1IsPyYKBXcxacHOTuj2LrOyNr_9frV2JSqSnA_KrRvaaUg17rENHFj25R1Lbp_i3E4hHPaz1X27wynbB55mueMP34O7CNhJfurQzVrH9yyNjP9g</string>
+
+    <string-array name="motivo_de_cancelamentos">
+        <item>501-PROBLEMAS DE SISTEMA</item>
+        <item>502-PEDIDO EM DUPLICIDADE</item>
+        <item>503-ITEM INDISPONÍVEL</item>
+        <item>504-RESTAURANTE SEM MOTOBOY</item>
+        <item>505-CARDÁPIO DESATUALIZADO</item>
+        <item>506-PEDIDO FORA DA ÁREA DE ENTREGA</item>
+        <item>507-CLIENTE GOLPISTA / TROTE</item>
+        <item>508-FORA DO HORÁRIO DO DELIVERY</item>
+        <item>509-DIFICULDADES INTERNAS DO RESTAURANTE</item>
+        <item>511-ÁREA DE RISCO</item>
+        <item>512-RESTAURANTE ABRIRÁ MAIS TARDE</item>
+    </string-array>
+</resources>

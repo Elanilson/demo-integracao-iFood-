@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/background_caixa.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/background_campo_text.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/background_navigation.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/btn_bg.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/ic_arrow_forward_24.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/ic_baseline_content_copy_24.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/ic_baseline_phonelink_24.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/ic_baseline_sync_24.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/ic_baseline_warning_24.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/ic_carrinhodecompras_24.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/ic_confirmado_pedido.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable-v24/item_selecionado.xml" value="0.1" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/drawable/ic_shopping_cart_24.xml" value="0.148" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/activity_paineli_food.xml" value="0.25" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/fragment_carrinho.xml" value="0.264" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/fragment_produtos.xml" value="0.264" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/layout__pedido_enviado_com_sucesso.xml" value="0.1" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/layout_banner.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/layout_cancelar_pedido_ifood.xml" value="0.25" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/layout_carrinho_custom.xml" value="0.37318840579710144" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/layout_destaque.xml" value="0.4" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/layout_evento_pedido.xml" value="0.25" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/layout_lojas.xml" value="0.4" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/layout_produto.xml" value="0.4" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/recycler_view_item_1.xml" value="0.25" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/recycler_view_item_2.xml" value="0.25" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/layout/toolbar_custom.xml" value="0.4" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/menu/menu_principal.xml" value="0.25" />
+        <entry key="..\:/Users/elani/AndroidStudioProjects/DemoiFoodintegracao/app/src/main/res/menu/menu_shopping.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
